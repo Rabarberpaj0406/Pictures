@@ -1,0 +1,10 @@
+C:\Users\Elias.Egneus\source\repos\Pictures\Pictures\bin\Debug\Pictures.exe.config
+C:\Users\Elias.Egneus\source\repos\Pictures\Pictures\bin\Debug\Pictures.exe
+C:\Users\Elias.Egneus\source\repos\Pictures\Pictures\bin\Debug\Pictures.pdb
+C:\Users\Elias.Egneus\source\repos\Pictures\Pictures\obj\Debug\Pictures.csproj.AssemblyReference.cache
+C:\Users\Elias.Egneus\source\repos\Pictures\Pictures\obj\Debug\Pictures.Form1.resources
+C:\Users\Elias.Egneus\source\repos\Pictures\Pictures\obj\Debug\Pictures.Properties.Resources.resources
+C:\Users\Elias.Egneus\source\repos\Pictures\Pictures\obj\Debug\Pictures.csproj.GenerateResource.cache
+C:\Users\Elias.Egneus\source\repos\Pictures\Pictures\obj\Debug\Pictures.csproj.CoreCompileInputs.cache
+C:\Users\Elias.Egneus\source\repos\Pictures\Pictures\obj\Debug\Pictures.exe
+C:\Users\Elias.Egneus\source\repos\Pictures\Pictures\obj\Debug\Pictures.pdb
